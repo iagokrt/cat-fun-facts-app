@@ -1,20 +1,17 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: space-around;
 
-
   input {
     background-color: transparent;
+    color: #fbdcc4;
     border: none;
     padding: 4px;
-    color: #fbdcc4;
     font-size: 18px;
-
     width: 450px;
   }
 

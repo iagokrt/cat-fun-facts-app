@@ -1,5 +1,10 @@
 import styled from 'styled-components';
+
 import PerfectScrollbar from 'react-perfect-scrollbar';
+export const Scroll = styled(PerfectScrollbar)`
+  max-height: 260px;
+  padding: 5px 15px;
+`;
 
 export const Wrapper = styled.div`
   display: flex;
@@ -8,18 +13,14 @@ export const Wrapper = styled.div`
   justify-content: center;
 `;
 
-export const Scroll = styled(PerfectScrollbar)`
-  max-height: 260px;
-  padding: 5px 15px;
-`;
-
-export const CatFactsList = styled.ul`
+export const List = styled.ul`
   list-style: none;
   padding-top: 12px;
 
   li {
-    height: 82px;
+    height: 102px;
 
+    margin-top: 8px;
     padding-bottom: 24px;
     padding-top: 24px;
 
