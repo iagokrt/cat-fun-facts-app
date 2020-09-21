@@ -1,5 +1,7 @@
 import { createGlobalStyle} from 'styled-components';
 
+import 'react-perfect-scrollbar/dist/css/styles.css';
+
 import Background from '../images/yingyangcats.svg';
 
 export default createGlobalStyle`
