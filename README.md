@@ -51,3 +51,6 @@ You will also see any lint errors in the console.
  [](https://emojipedia.org/check-mark/)
 
 ### ✔️: Connect Firebase noSQL database with React App.
+
+### ✔️: Allow adding data to Firebase: Add, edit and remove cat facts!
+
