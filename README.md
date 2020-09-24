@@ -22,7 +22,7 @@ Work in Progress... 🚧 </h4>
 
 ### Preview
 
-![preview failed to load :(](https://github.com/iagokrt/cat-fun-facts-app/blob/master/preview.gif)
+![preview failed to load :(](https://github.com/iagokrt/cat-fun-facts-app/blob/master/cat-preview.gif)
 
 
 ## Available Scripts
